@@ -9,4 +9,4 @@ redirect_from:
   - /about.html
 ---
 
-<img title="<fill in with caption title>" alt="Alt text" src="images/headshot.JPG">
+<img title="me" alt="Alt text" src="images/headshot.jpg">
